@@ -1,0 +1,10 @@
+Step1. pip install flask
+Step2. pip install flask-wtf
+Step3. pip install tensorflow2.0.0a0
+Step4. pip install keras
+Step5. pip install pandas
+Step6. pip install numpy
+Step7. pip install opencv-python
+Step7. pip install werkzeug
+Step8. pip install gunicorn
+Step9. pip freeze > requirements.txt
